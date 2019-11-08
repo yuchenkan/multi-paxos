@@ -1,0 +1,12 @@
+The goal of this demo is to create an easy-to-build
+third-part-library-free paxos implementation with minimized code,
+optimization and idealized irrelevant runtime environment, which can
+be used to verify the whole system behaviour under different simulated
+circumstances like network faliure and process crash.
+
+Membership management are added but not used.
+
+Run with:
+  make
+  cp debug.conf.simple debug.conf
+  bash run.sh

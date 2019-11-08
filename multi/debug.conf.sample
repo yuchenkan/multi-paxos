@@ -1,0 +1,1 @@
+4 4 10 100 --seed=0 --paxos-prepare-delay-min=1000 --paxos-prepare-delay-max=3000 --paxos-prepare-retry-count=3 --paxos-prepare-retry-timeout=500 --paxos-accept-retry-count=2 --paxos-accept-retry-timeout=300 --paxos-commit-retry-timeout=1000 --log-level=1 --net-drop-rate=500 --net-dup-rate=1000 --net-min-delay=0 --net-max-delay=500

@@ -1,0 +1,10 @@
+An paxos implementation supporting membership changes with fully
+reproducable test.
+
+Usage:
+    make
+    cp debug.conf.sample debug.conf
+    bash diff.sh
+
+TODO:
+    Add more test.

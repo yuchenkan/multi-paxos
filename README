@@ -1,0 +1,4 @@
+This is a demo based on the paper Paxos Made Simple by Leslie Lamport.
+
+multi/ contains a demo for multi-paxos algorithm.
+member/ contains a demo with membership management, not fully tested.
